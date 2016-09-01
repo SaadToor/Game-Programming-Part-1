@@ -8,4 +8,4 @@ change log:
 - Draws and displays a white box
 - Allow the user to move with the (WSAD) and (UP DOWN LEFT RIGHT) Keys
 - Press ESC or close the program
-- Made the box bove more smoother and less lag
+- Made the box move more smoother and less lag
